@@ -22,7 +22,7 @@
     BeanUtil类
 4)通过Class,Method来认识泛型的本质
    
-  
+ 参考：https://blog.csdn.net/sinat_38259539/article/details/71799078(非常重要)
   
   
   
